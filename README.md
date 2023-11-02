@@ -16,5 +16,3 @@ clone the repository and deploy on the host of your choise.
 ## Architecture
 
 This is a website for a hair and beauty salon which uses html and css and javascript.
-
-## Change Log
