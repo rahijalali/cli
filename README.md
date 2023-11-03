@@ -1,4 +1,5 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![hair cut](https://media.glamourmagazine.co.uk/photos/61389a045341d7d4e342b53e/master/pass/shutterstock_1863222907_sq.png)
 
 # H&B Website
 
@@ -7,7 +8,7 @@
 
 ## Overview
 
-This is a website for a hair and beauty salon.
+This is a website for a hair and beauty salon. this is for a uni project.
 
 ## Getting Started
 
