@@ -1,4 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![hair cut image](![hair cut](https://media.glamourmagazine.co.uk/photos/61389a045341d7d4e342b53e/master/pass/shutterstock_1863222907_sq.png)
+)
+
 # H&B Website
 
 **Author**: Raheleh Jalali
